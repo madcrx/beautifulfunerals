@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Disallow admin pages from search engines
+Disallow: /admin/
+
+Sitemap: https://www.beautifulfunerals.au/sitemap.xml
